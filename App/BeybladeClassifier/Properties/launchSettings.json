@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BeybladeClassifier": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\..\\..\\Beyblades ONNX\\signature.json\" \"..\\..\\..\\..\\..\\TestImages\\s-l640.jpg\""
+    }
+  }
+}
